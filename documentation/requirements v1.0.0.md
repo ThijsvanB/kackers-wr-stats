@@ -5,6 +5,8 @@ URF-002 - Must - Not Done - The system must be able to request player data
 URF-003 - Must - Not Done -The system must be able to show the top 5 on any kacky reloaded map
 URF-004 - Must - Not Done - The system must be able to show whether a world record is from helm or not
 URF-005 - Must - Not Done - The system must be able to show overall world record statistics
+URF-006 - Must - Not Done - The system must save the top 5 of every kacky reloaded map
+URF-007 - Must - Not Done - The system must update the top 5 of eveyr kacky reloaded map at least once every hour
 URF-020 - Should - Not Done - The system should be able to show the top 5 oldest world records
 URF-021 - Should - Not Done - The system should be able to show the top 5 youngest world records
 URF-040 - Could - Not Done - The system must be able to show if a world record is offline or online
